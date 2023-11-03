@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kartik-ahuja.github.io/Netflix-Clone/static/css/main.b2934309.css",
+    "main.js": "/kartik-ahuja.github.io/Netflix-Clone/static/js/main.c774e2e7.js",
+    "static/js/787.68bddc07.chunk.js": "/kartik-ahuja.github.io/Netflix-Clone/static/js/787.68bddc07.chunk.js",
+    "static/media/logo.svg": "/kartik-ahuja.github.io/Netflix-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kartik-ahuja.github.io/Netflix-Clone/index.html",
+    "main.b2934309.css.map": "/kartik-ahuja.github.io/Netflix-Clone/static/css/main.b2934309.css.map",
+    "main.c774e2e7.js.map": "/kartik-ahuja.github.io/Netflix-Clone/static/js/main.c774e2e7.js.map",
+    "787.68bddc07.chunk.js.map": "/kartik-ahuja.github.io/Netflix-Clone/static/js/787.68bddc07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2934309.css",
+    "static/js/main.c774e2e7.js"
+  ]
+}
